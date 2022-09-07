@@ -25,6 +25,9 @@ My goals🔥
 
 📕 Currently learning languages > | Java | C++ | Python | JavaScript
 
+![Eloi449's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eloi449&show_icons=true&theme=tokyonight)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Eloi449&layout=compact&theme=dracula)
+
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width = "50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width = "50px" />
@@ -32,9 +35,6 @@ My goals🔥
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width = "50px" />
 
 </div>
-
-![Eloi449's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eloi449&show_icons=true&theme=tokyonight)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Eloi449&layout=compact&theme=dracula)
 
 👋 Eai pessoal! Esse aqui é o tanto que já entraram no meu perfil :)
 
@@ -46,4 +46,4 @@ Obrigada por visitar <3
 
 Thanks for visiting <3
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/b78819c0382fc1cb8c2e28dc2ab47227.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/623016d338e656859200f37370fadf5d.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
