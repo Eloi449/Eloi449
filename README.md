@@ -37,9 +37,13 @@ My goals🔥
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Eloi449&layout=compact&theme=dracula)
 
 👋 Eai pessoal! Esse aqui é o tanto que já entraram no meu perfil :)
+
 👋 Hey guys! This is how much has already entered my profile :)
 
 <img src="https://profile-counter.glitch.me/{Eloi449}/count.svg" alt="Mary:: Visitor's Count" />
 
 Obrigada por visitar <3
+
 Thanks for visiting <3
+
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/b78819c0382fc1cb8c2e28dc2ab47227.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
