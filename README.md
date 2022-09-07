@@ -2,6 +2,7 @@ Hi there 👋
 Fala pessoal 👋
 
 My name is Mary and this is my profile!
+
 Meu nome é Mary e este é meu perfil!
 
 💫Um pouco sobre mim...
