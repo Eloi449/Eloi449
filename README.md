@@ -33,7 +33,6 @@ My goals🔥
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width = "50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width = "50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width = "50px" />
-
 </div>
 
 👋 Eai pessoal! Esse aqui é o tanto que já entraram no meu perfil :)
