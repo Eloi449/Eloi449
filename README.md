@@ -21,21 +21,21 @@ My goals🔥
 
 💼 Seeking to be a Front-End developer and have experience in Back-End development
 
-📕 Aprendendo atualmente as linguagens > | Java | C++ | Python | JavaScript
+📕 Aprendendo atualmente as linguagens > | Java | C++ | Python
 
-📕 Currently learning languages > | Java | C++ | Python | JavaScript
+📕 Currently learning languages > | Java | C++ | Python 
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width = "50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width = "50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width = "50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width = "50px" />
 </div>
 
 👋 Eai pessoal! Esse aqui é o tanto que já entraram no meu perfil :)
 
 👋 Hey guys! This is how much has already entered my profile :)
 
+![Visualizações](https://komarev.com/ghpvc/?username=Eloi449&label=Profile%20views&color=0e75b6&style=flat)
 
 Obrigada por visitar <3
 
