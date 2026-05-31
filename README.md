@@ -35,7 +35,14 @@ My goals🔥
 
 👋 Hey guys! This is how much has already entered my profile :)
 
-![Visualizações](https://komarev.com/ghpvc/?username=Eloi449&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
+  <h3>👀 Visitantes no perfil</h3>
+
+  <img 
+    src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitantes&color=blueviolet&style=for-the-badge" 
+    alt="Contador de visitas do perfil"
+  />
+</div>
 
 Obrigada por visitar <3
 
