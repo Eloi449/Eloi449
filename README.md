@@ -25,7 +25,7 @@ My goals🔥
 
 📕 Currently learning languages > | Java | C++ | Python | JavaScript
 
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width = "50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width = "50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width = "50px" />
