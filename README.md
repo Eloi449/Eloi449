@@ -39,7 +39,7 @@ My goals🔥
   <h3>👀 Visitantes no perfil</h3>
 
   <img 
-    src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitantes&color=blueviolet&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=Eloi449&label=Visitantes&color=blueviolet&style=for-the-badge" 
     alt="Contador de visitas do perfil"
   />
 </div>
