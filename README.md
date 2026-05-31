@@ -1,51 +1,71 @@
 Hi there 👋
-Fala pessoal 👋
 
-My name is Mary and this is my profile!
+🇺🇸 English
 
-Meu nome é Mary e este é meu perfil!
+My name is Mary, and welcome to my GitHub profile!
 
-💫Um pouco sobre mim...
+🎓 Computer Science student passionate about technology, Data Analytics, and Artificial Intelligence.
 
-💫A bit about me...
+💡 I enjoy learning new technologies, solving problems, and building projects that help me develop both technical and analytical skills.
 
-- 🌱 I’m currently learning some differents languages but C++ is the best one for me 😁
-- 👯 I am currently collaborating on the 3D modeling project at IFCE Campus Aracati
-- 🤔 I’m looking for help with C++, Python, Java and JavaScript 😶
--------------------------------------------------------------------------------------------------------------------------------
-Minhas metas🔥
+🚀 About Me
 
-My goals🔥
+- 🌱 Currently learning Java, C++, and Python
+- 📊 Interested in Data Analytics and Artificial Intelligence
+- 🤝 Always open to learning and exchanging knowledge with other developers
+- 💻 Building projects to improve my programming and problem-solving skills
 
-💼 Buscando ser desenvolvedor Front-End e ter experiência no desenvolvimento Back-End 
+🔥 Goals
 
-💼 Seeking to be a Front-End developer and have experience in Back-End development
+- 📕 Deepen my knowledge in Data Analytics
+- 📕 Explore Artificial Intelligence and Machine Learning concepts
+- 📕 Strengthen my programming skills through practical projects
+- 📕 Continuously learn and grow as a developer
 
-📕 Aprendendo atualmente as linguagens > | Java | C++ | Python
-
-📕 Currently learning languages > | Java | C++ | Python 
+🛠️ Technologies I'm Learning
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width = "50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width = "50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width = "50px" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>
+</div>---
 
-👋 Eai pessoal! Esse aqui é o tanto que já entraram no meu perfil :)
+🇧🇷 Português
 
-👋 Hey guys! This is how much has already entered my profile :)
+Meu nome é Mary e seja bem-vindo(a) ao meu perfil do GitHub!
+
+🎓 Estudante de Ciência da Computação apaixonada por tecnologia, Análise de Dados e Inteligência Artificial.
+
+💡 Gosto de aprender novas tecnologias, resolver problemas e desenvolver projetos que contribuam para meu crescimento técnico e analítico.
+
+🚀 Sobre Mim
+
+- 🌱 Atualmente aprendendo Java, C++ e Python
+- 📊 Interessada em Análise de Dados e Inteligência Artificial
+- 🤝 Sempre aberta a aprender e trocar conhecimento com outros desenvolvedores
+- 💻 Desenvolvendo projetos para aprimorar minhas habilidades de programação e resolução de problemas
+
+🔥 Metas
+
+- 📕 Aprofundar meus conhecimentos em Análise de Dados
+- 📕 Explorar conceitos de Inteligência Artificial e Machine Learning
+- 📕 Fortalecer minhas habilidades de programação por meio de projetos práticos
+- 📕 Evoluir continuamente como desenvolvedora
+
+🛠️ Tecnologias em Aprendizado
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>
+</div>---
 
 <div align="center">
-  <h3>👀 Visitantes no perfil</h3>
+  <h3>👀 Profile Visitors</h3><img 
+src="https://komarev.com/ghpvc/?username=Eloi449&label=Visitors&color=blueviolet&style=for-the-badge"
+alt="Profile Visitor Counter"
+/>
 
-  <img 
-    src="https://komarev.com/ghpvc/?username=Eloi449&label=Visitantes&color=blueviolet&style=for-the-badge" 
-    alt="Contador de visitas do perfil"
-  />
-</div>
+</div>Thanks for visiting! ❤️
 
-Obrigada por visitar <3
-
-Thanks for visiting <3
-
-<a alling = "left"><img src="https://i.picasion.com/pic92/623016d338e656859200f37370fadf5d.gif" width="100" /></a><br />
+Obrigado pela visita! ❤️
