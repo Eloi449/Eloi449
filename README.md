@@ -68,4 +68,4 @@ alt="Profile Visitor Counter"
 
 </div>Thanks for visiting! ❤️
 
-Obrigado pela visita! ❤️
+<a alling = "left"><img src="https://i.picasion.com/pic92/623016d338e656859200f37370fadf5d.gif" width="100" /></a><br /> Obrigado pela visita! ❤️ 
